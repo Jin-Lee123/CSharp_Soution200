@@ -11,7 +11,7 @@ namespace A060_ArraySorting
         static void Main(string[] args)
         {
             string[] name = { "Mouse", "Cow", "Tiger", "Rabbit", "Dargon", "Snake", "Horse" };
-            PrintArray("Before Sort : ", name);
+            PrintArray("Before Sort : ", name);//
 
             Array.Reverse(name);
             PrintArray("Before Sort : ", name);
