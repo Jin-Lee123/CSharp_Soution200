@@ -195,7 +195,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A097_UsingLinkedList", "A09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A098_StackImplementation", "A098_StackImplementation\A098_StackImplementation.csproj", "{08C9B880-14C5-4149-BBE3-0C02B95780C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueImplementation", "QueueImplementation\QueueImplementation.csproj", "{FCD0469E-F112-4FC2-80A1-0A33F7137B33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A100_QueueImplementation", "QueueImplementation\A100_QueueImplementation.csproj", "{FCD0469E-F112-4FC2-80A1-0A33F7137B33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
