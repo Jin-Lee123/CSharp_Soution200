@@ -1,0 +1,26 @@
+﻿<Window x:Class="A159_WPF_Blinker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:A159_WPF_Blinker"
+        mc:Ignorable="d"
+        Title="Blinker" Height="250" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="170"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Button Name="btnGreen" Background="Green" Margin="40" Click="btnGreen_Click"/>
+        <Button Name="btnRed" Grid.Column="1" Background="Red" Margin="40" Click="btnRed_Click" />
+        <TextBlock Grid.Row="1" FontSize="20" HorizontalAlignment="Center" Text="Start Blinking!"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" FontSize="20" HorizontalAlignment="Center" Text="Stop Blinking!"/>
+
+    </Grid>
+</Window>
