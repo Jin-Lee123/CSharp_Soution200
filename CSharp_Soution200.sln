@@ -309,6 +309,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A159_WPF_Blinker", "A159_WP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A160_WPF_SimpleCalc", "A160_WPF_SimpleCalc\A160_WPF_SimpleCalc.csproj", "{5255BA71-5222-4D2C-988C-316181D39AEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A161_WindowCalc", "A161_WindowCalc\A161_WindowCalc.csproj", "{204A7EFB-815C-45A3-B444-F2B9B23D73E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -927,6 +929,10 @@ Global
 		{5255BA71-5222-4D2C-988C-316181D39AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5255BA71-5222-4D2C-988C-316181D39AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5255BA71-5222-4D2C-988C-316181D39AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204A7EFB-815C-45A3-B444-F2B9B23D73E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204A7EFB-815C-45A3-B444-F2B9B23D73E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204A7EFB-815C-45A3-B444-F2B9B23D73E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204A7EFB-815C-45A3-B444-F2B9B23D73E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
