@@ -321,6 +321,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A166_WPF_AnalogClock", "A16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A167_WPF_AnalogClock", "A167_WPF_AnalogClock\A167_WPF_AnalogClock.csproj", "{8EF228A2-5BB0-4FE6-A2E2-E7F943DB65C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A168_WPF_MonteCarloPI", "A168_WPF_MonteCarloPI\A168_WPF_MonteCarloPI.csproj", "{D2B624BA-0F6F-4C49-A95E-EE8A83C3891F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A169_UsingWFCountrollnWPF", "A169_UsingWFCountrollnWPF\A169_UsingWFCountrollnWPF.csproj", "{B96997B0-2E86-4BF5-9998-84F275331217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A170_ChartControl", "A170_ChartControl\A170_ChartControl.csproj", "{A4825464-51C8-4401-9D65-660B8B40FC5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A171_ChartControlWithTwoSeries", "A171_ChartControlWithTwoSeries\A171_ChartControlWithTwoSeries.csproj", "{C8FF9257-BC22-4AC2-BEBF-BECFDEAD70C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A172_GraphWithChartControl", "A172_GraphWithChartControl\A172_GraphWithChartControl.csproj", "{03E16508-3139-4E59-ADB9-63540746C718}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -963,6 +973,26 @@ Global
 		{8EF228A2-5BB0-4FE6-A2E2-E7F943DB65C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EF228A2-5BB0-4FE6-A2E2-E7F943DB65C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EF228A2-5BB0-4FE6-A2E2-E7F943DB65C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B624BA-0F6F-4C49-A95E-EE8A83C3891F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B624BA-0F6F-4C49-A95E-EE8A83C3891F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B624BA-0F6F-4C49-A95E-EE8A83C3891F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B624BA-0F6F-4C49-A95E-EE8A83C3891F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B96997B0-2E86-4BF5-9998-84F275331217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B96997B0-2E86-4BF5-9998-84F275331217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B96997B0-2E86-4BF5-9998-84F275331217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B96997B0-2E86-4BF5-9998-84F275331217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4825464-51C8-4401-9D65-660B8B40FC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4825464-51C8-4401-9D65-660B8B40FC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4825464-51C8-4401-9D65-660B8B40FC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4825464-51C8-4401-9D65-660B8B40FC5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FF9257-BC22-4AC2-BEBF-BECFDEAD70C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8FF9257-BC22-4AC2-BEBF-BECFDEAD70C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8FF9257-BC22-4AC2-BEBF-BECFDEAD70C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8FF9257-BC22-4AC2-BEBF-BECFDEAD70C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E16508-3139-4E59-ADB9-63540746C718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E16508-3139-4E59-ADB9-63540746C718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E16508-3139-4E59-ADB9-63540746C718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E16508-3139-4E59-ADB9-63540746C718}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
