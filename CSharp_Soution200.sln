@@ -333,6 +333,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A172_GraphWithChartControl"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A173_MyNotePad", "A173_MyNotePad\A173_MyNotePad.csproj", "{079CEA6A-1EEA-437B-9BEF-4BF4EBA25768}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A175_ImageViewer", "A195_ImageViewer\A175_ImageViewer.csproj", "{3A6F51D2-799E-4A04-85B8-430E147D56D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A176_MatchingGames", "A176_MatchingGames\A176_MatchingGames.csproj", "{6AE39125-D395-42F3-B8F9-DD8F116C6803}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -999,6 +1003,14 @@ Global
 		{079CEA6A-1EEA-437B-9BEF-4BF4EBA25768}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{079CEA6A-1EEA-437B-9BEF-4BF4EBA25768}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{079CEA6A-1EEA-437B-9BEF-4BF4EBA25768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6F51D2-799E-4A04-85B8-430E147D56D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6F51D2-799E-4A04-85B8-430E147D56D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6F51D2-799E-4A04-85B8-430E147D56D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6F51D2-799E-4A04-85B8-430E147D56D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE39125-D395-42F3-B8F9-DD8F116C6803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE39125-D395-42F3-B8F9-DD8F116C6803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE39125-D395-42F3-B8F9-DD8F116C6803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE39125-D395-42F3-B8F9-DD8F116C6803}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
